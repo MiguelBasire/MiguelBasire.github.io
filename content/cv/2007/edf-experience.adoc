@@ -1,0 +1,22 @@
+= Lead developer
+Miguel BASIRE
+2007-10-17
+:jbake-type: experience
+:jbake-at: EDF Editique / Gestion électronique de documents
+:jbake-status: published
+:jbake-tags: Java, J2EE, C, Unix, Perl, Mysql, XML, XSLT, CVS, Mantis
+:idprefix:
+:jbake-time: octobre 2007 - décembre 2009
+:jbake-technologies: Java, J2EE, C, Unix, Perl, Mysql, XML, XSLT, CVS, Mantis
+
+* Mise à plat de la chaîne d'archivage des documents sortants (facture et courrier)
+** analyse de l'existant et rédaction des spécifications fonctionnelles d'archivage
+** uniformisation des technologies employées, simplifier les traitements
+* Industrialisation du processus de développement et déploiement des applications
+** mise en place d'une procédure de livraison des produits, automatisation du packaging
+** gestion des anomalies
+** redéfinition des responsabilités des membres de l'équipe
+* Implémentation de nouveaux services documentaires : composition automatique de courrier électronique avec archivage – Suivi de l'évolution des pré-imprimés / gestion des stocks
+* Support technique de l'équipe (6 personnes), Télétravail partiel (1 journée par semaine)
+
+NOTE: {jbake-technologies}

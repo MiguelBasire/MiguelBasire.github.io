@@ -1,0 +1,23 @@
+= Ingénieur d'études
+Miguel BASIRE
+2006-10-17
+:jbake-type: experience
+:jbake-at: CNP Assurances
+:jbake-status: published
+:jbake-tags: C, PL/SQL, Unix, Perl, Visual Basic 6, Oracle 9i, Clearcase
+:idprefix:
+:jbake-time: juin 2006 - septembre 2007
+:jbake-technologies: C, PL/SQL, Unix, Perl, Visual Basic 6, Oracle 9i, Clearcase
+
+
+
+* Réalisation du module d'intégration des données utilisateur sur les "risques émetteurs" :
+** recueil des besoins au près des utilisateurs
+** rédaction  des spécifications techniques
+** implémentation de la solution
+* Analyse et correction des anomalies sur les applications du domaine
+** Optimisation des batchs journaliers d'intégration des donnnées
+* Migrations des applications clientes lourdes Visual Basic 5 vers Visual Basic 6
+* Formation/préparation  de la nouvelle équipe TMA sur les applications du domaine financier
+
+NOTE: {jbake-technologies}

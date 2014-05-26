@@ -1,0 +1,17 @@
+= Ingénieur d'études
+Miguel BASIRE
+2010-10-17
+:jbake-type: experience
+:jbake-at: Voyages-sncf.com / Vente en ligne/transports publics
+:jbake-status: published
+:jbake-tags: Scrum, Java
+:idprefix:
+:jbake-time: octobre 2011 - décembre 2011
+:jbake-technologies: Java, Spring, Maven, Hudson, Oracle, ODI, Webservices REST et Soap, SVN
+
+* Maintenance évolutive du module recherche d'itinéraires (SIDH) du site voyages-sncf.com
+* Mise en place de la fonctionnalité de recherche d'itinéraires par fenêtre de temps : cadrage, chiffrage et conception
+* Intégration d'un nouveau flux (Merits) dans l'entrepôt de données
+* Mise en place de la fonctionnalité « temps minimum de correspondances » sur le service
+
+NOTE: {jbake-technologies}

@@ -1,0 +1,34 @@
+= Lead developer
+Miguel BASIRE
+2012-01-01
+:jbake-type: experience
+:jbake-at: Transatel / Téléphonie mobile virtuelle (MVNO / MVNA / MVNE)
+:jbake-status: published
+:jbake-tags: Scrum, Java
+:idprefix:
+:jbake-technologies: Java, Maven, jBPM, Jenkins et TeamCity, FluentLenium, Concordion, JAX-RS, JAX-WS, SQL Server, C#, SVN, PHP, Javascript, JMS/MQSeries
+:jbake-time: janvier 2012 - juin 2014
+
+* Développement sur la chaîne de provisioning
+* Création de nouveaux workflows
+* Adaptation des connecteurs opérateurs
+* Migration d'une application d'un conteneur de servlet vers un conteneur JEE 7 (WildFly)
+* Enrichissement de l'API publique de provisioning (web services)
+* Mise à disposition de ressources Web (REST)
+* Intervention sur la chaîne de facturation 
+* Intégration des nouveaux flux de CDRs
+** optimisation des performances des batchs (analyse et réécriture)
+** mise en place du « Test Mode » de ligne Machine To Machine (Rating et Billing)
+* Réduction de la dette technique 
+* Redéfinition de la politique de tests automatisés de type composant
+* Assainissement du code avec l'introduction d'un injecteur de dépendances
+* Migration du serveur d'intégration continue Jenkins vers TeamCity
+* Mise en place de l'intégration continue des bases de données
+* Mise en place d'une suite de tests FluentLenium
+* Industrialisation des livraisons
+* Packaging natif (debian) des composants Java
+* Test de déploiement automatisé
+* Simplification de la configuration de certains composants
+* Animation de coding dojos
+
+NOTE: {jbake-technologies}

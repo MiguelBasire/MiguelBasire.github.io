@@ -1,0 +1,11 @@
+title=About
+date=2013-09-24
+type=page
+status=published
+~~~~~~
+
+2013:: Participation au premier épisode de CodeStory de la saison 3 : implémenation en Kotlin d'un serveur de pilotage d'ascenseurs en équipe avec Mamadou Diarra
+2007:: Certification 'Sun Certified Java Programmer 1.4'
+2005:: Diplôme d'ingénieur en informatique (Polytech Tours département informatique – ex E3i, Tours)
+2001:: DUT Génie Électrique et Informatique Industrielle (Université du Havre, 76)
+1999:: Bac scientifique (Le Havre, 76)

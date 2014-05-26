@@ -1,0 +1,21 @@
+= Ingénieur d'études
+Miguel BASIRE
+2010-01-02
+:jbake-type: experience
+:jbake-at: SGCIB / Finance / marché des devises
+:jbake-status: published
+:jbake-tags: Java, Spring, Hibernate, Oracle 10g, C# 3.5, RMDS, Tibco Rendez-vous, SVN
+:idprefix:
+:jbake-time: janvier 2010 - juillet 2010
+:jbake-technologies: Java, Spring, Hibernate, Oracle 10g, C# 3.5, RMDS, Tibco Rendez-vous, SVN
+
+* Maintenance évolutive de la chaîne de couverture des opérations de change
+* Changement infrastructure pour la communication des prix
+* Suppression de la fonctionnalité diffusion de prix du module de passage d'ordre
+* Changement fonctionnel sur le diffuseur de prix des devises
+* Mise en place d'une diffusion cadencée des prix
+* Évaluation de la montée en charge
+* Unification des référentiels de devises exploitées par les modules
+* Participation au développement du backtester du nouveau composant de couverture
+
+NOTE: {jbake-technologies}
