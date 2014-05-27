@@ -3,7 +3,7 @@
 <#include "menu.ftl">
 
 
-<h1 class="page-header"><span class="glyphicon glyphicon-road"></span> Experiences
+<h1 class="page-header">Experiences
     <small>Une idée de mon parcours</small>
 </h1>
 
@@ -31,7 +31,7 @@
             <div class="tab-content">
 
             <#list experiences as experience>
-
+                <#if (experience.status == "published")>
                 <div id="exp-${experience_index}"
                      class="tab-pane <#if (experience_index == 0)>active</#if> panel panel-default">
                     <div class="panel-heading">
@@ -43,7 +43,7 @@
                     ${experience.body}
                     </div>
                 </div>
-
+                </#if>
             </#list>
 
             </div>
