@@ -1,11 +1,12 @@
 <#include "header.ftl">
 
-<#include "menu.ftl">
+    <#include "menu.ftl">
 
-
-<h1 class="page-header">Experiences
-    <small>Une idée de mon parcours</small>
-</h1>
+<div class="page-header">
+    <h1>Experiences
+        <small>Une idée de mon parcours</small>
+    </h1>
+</div>
 
 <div class="container">
 
@@ -32,17 +33,17 @@
 
             <#list experiences as experience>
                 <#if (experience.status == "published")>
-                <div id="exp-${experience_index}"
-                     class="tab-pane <#if (experience_index == 0)>active</#if> panel panel-default">
-                    <div class="panel-heading">
-                        <h4>${experience.title}
-                            <small>${experience.at}</small>
-                        </h4>
+                    <div id="exp-${experience_index}"
+                         class="tab-pane <#if (experience_index == 0)>active</#if> panel panel-default">
+                        <div class="panel-heading">
+                            <h4>${experience.title}
+                                <small>${experience.at}</small>
+                            </h4>
+                        </div>
+                        <div class="panel-body">
+                        ${experience.body}
+                        </div>
                     </div>
-                    <div class="panel-body">
-                    ${experience.body}
-                    </div>
-                </div>
                 </#if>
             </#list>
 
