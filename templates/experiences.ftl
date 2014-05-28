@@ -38,6 +38,7 @@
                         <div class="panel-heading">
                             <h4>${experience.title}
                                 <small>${experience.at}</small>
+                                <#if experience.tags?seq_contains("Scrum")><span class="badge">scrum</span></#if>
                             </h4>
                         </div>
                         <div class="panel-body">
