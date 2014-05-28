@@ -15,6 +15,11 @@
               <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>about.html">A propos</a></li>
               <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>experiences.html">Experiences</a></li>
           </ul>
+          <ul class="nav navbar-nav navbar-right">
+             <li><a href="https://twitter.com/MiguelBasire">
+                 @
+             </a></li>
+          </ul>
         </div><!--/.nav-collapse -->
       </div>
     </div>
