@@ -12,7 +12,7 @@
         </div>
 
         <div class="col-md-3 bottom">
-            <a href="https://twitter.com/MigueBasire">@MiguelBasire</a>
+            <a href="https://twitter.com/MiguelBasire">@MiguelBasire</a>
             <span class="glyphicon glyphicon-earphone"></span> +33 671563529
         </div>
 
