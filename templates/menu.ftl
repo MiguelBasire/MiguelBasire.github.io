@@ -14,11 +14,14 @@
           <ul class="nav navbar-nav">
               <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>about.html">A propos</a></li>
               <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>experiences.html">Experiences</a></li>
-              <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>cv.html">Full CV</a></li>
           </ul>
           <ul class="nav navbar-nav navbar-right">
+
              <li><a href="https://twitter.com/MiguelBasire">
-                 @MiguelBasire
+                   <span class="fa fa-twitter"></span>
+             </a></li>
+             <li><a href="https://github.com/MiguelBasire">
+                   <span class="fa fa-github"></span>
              </a></li>
           </ul>
         </div><!--/.nav-collapse -->

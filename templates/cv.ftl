@@ -11,9 +11,12 @@
             </h1>
         </div>
 
-        <div class="col-md-3 bottom">
-            <a href="https://twitter.com/MiguelBasire">@MiguelBasire</a>
-            <span class="glyphicon glyphicon-earphone"></span> +33 671563529
+        <div class="col-md-3 ">
+            <div class="h2 right">
+                <div><a href="https://twitter.com/MiguelBasire"><span class="fa fa-twitter"></span></a></div>
+                <div><a href="https://github.com/MiguelBasire"> <span class="fa fa-github"></span> </a></div>
+            </div>
+
         </div>
 
     </div>
@@ -31,7 +34,7 @@
                         <h4 class="panel-title">${experience.title}
                             <small>${experience.at}</small>
                             <#if experience.tags?seq_contains("Scrum")><span class="badge">scrum</span></#if>
-                            <span class="right">${experience.time}</span>
+                            <span class="right"><small>${experience.time}</small></span>
                         </h4>
 
                     </div>

@@ -1,6 +1,6 @@
 <#include "header.ftl">
 
-    <#include "menu.ftl">
+<#include "menu.ftl">
 
 <div class="page-header">
     <h1>Experiences
@@ -16,15 +16,22 @@
         <div class="col-md-3" role="complementary">
 
             <ul class="nav nav-pills nav-stacked">
+
             <#list experiences as experience>
 
                 <#if (experience.status == "published")>
                     <li class="<#if (experience_index == 0)>active</#if>">
-                        <a href="#exp-${experience_index}" data-toggle="tab">${experience.time}</a>
+                        <a href="#exp-${experience_index}" data-toggle="tab">
+                            <span class="fa fa-arrow-circle-o-right"></span>
+                        ${experience.time}
+                        </a>
                     </li>
                 </#if>
 
             </#list>
+                <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>cv.html">
+                    Full
+                </a></li>
             </ul>
         </div>
 
