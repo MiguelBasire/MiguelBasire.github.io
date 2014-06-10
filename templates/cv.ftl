@@ -48,6 +48,11 @@
     </#if>
 </#list>
 
+    <div class="row right">
+      <div class="col-md-2 col-md-offset-10"><small>${content.date?date}</small></div>
+    </div>
+
+
 
 </div>
 
