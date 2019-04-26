@@ -1,0 +1,30 @@
+= Responsable technique
+Miguel BASIRE
+2014-07-01
+:jbake-type: experience
+:jbake-at: QALYO / Startup dans le milieu de la santé connectée
+:jbake-status: published
+:jbake-tags: Scrum, Mobile, Android, iOS, Scala
+:idprefix:
+:jbake-technologies: Scala, Play framework 2.3, iOS, Swift, RxSwift, Android, Java, RxJava
+:jbake-time: juillet 2014 - aujourd'hui
+
+
+* Décision des orientations techniques QALYO
+* Recrutement des collaborateurs (équipe de 6 développeurs et un testeur)
+* Dossier hébergement HADS (hébergeur de données de santé)
+* *Développement backend*
+** Abonnement aux notifications des fournisseurs de données (Jawbone, Fitbit, Withings)
+** Exposition API ReST d'accès aux données personnels de santé
+* *Développement back office hospitalier*
+* Mise en place *infrastructure AWS* (EC2,DynamoDB,S3)
+* *Développement Android et iOS*
+** Mécanisme de synchronisation
+** Mécanisme de production de tâches du parcours de soins.
+* Déploiement Apple store et Play store
+
+NOTE: {jbake-technologies}
+
+.Un mot sur le produit
+[NOTE]
+ QALYO est une application mobile de santé. Elle permet à ses utilisateurs de suivre leur pathologie, les alerter d'un prochain contrôle médical et de suivre leur parcours de soins. QALYO propose également un accompagnement aux patients de certains services hospitaliers.
