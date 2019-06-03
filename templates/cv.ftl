@@ -7,7 +7,7 @@
 
         <div class="col-md-9">
             <h1><span class="glyphicon glyphicon-user"></span> Miguel BASIRE
-                <small>Développeur agile</small
+                <small>Développeur expérimenté</small>
             </h1>
         </div>
 
@@ -60,4 +60,3 @@
 <hr/>
 
 <#include "footer.ftl">
-

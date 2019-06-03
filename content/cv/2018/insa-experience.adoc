@@ -1,0 +1,22 @@
+= Chargé d'enseignement vacataire
+Miguel BASIRE
+2018-10-01
+:jbake-type: experience
+:jbake-at: INSA Centre val de Loire
+:jbake-status: published
+:jbake-tags: enseignement
+:idprefix:
+:jbake-technologies: C++, Visual Studio Code, cmake
+:jbake-time: octobre 2018 - mars 2019
+
+
+* Responsable de deux groupes de *TP de 14 élèves* de 3ème année GSI
+** Accompagnement des élèves dans l'apprentissage de la programmation orientée objet en C++
+** Correction des TP
+
+NOTE: {jbake-technologies}
+
+
+[NOTE]
+.Pour en savoir plus sur l'établissement
+ https://www.insa-centrevaldeloire.fr

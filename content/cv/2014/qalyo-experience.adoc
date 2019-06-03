@@ -1,12 +1,12 @@
 = Responsable technique
 Miguel BASIRE
-2014-07-01
+2019-06-01
 :jbake-type: experience
 :jbake-at: QALYO / Startup dans le milieu de la santé connectée
 :jbake-status: published
 :jbake-tags: Scrum, Mobile, Android, iOS, Scala
 :idprefix:
-:jbake-technologies: Scala, Play framework 2.3, iOS, Swift, RxSwift, Android, Java, RxJava
+:jbake-technologies: Scala, Play framework, Akka, iOS, Swift, RxSwift, Android, Java, RxJava
 :jbake-time: juillet 2014 - aujourd'hui
 
 
